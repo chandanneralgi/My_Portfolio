@@ -115,16 +115,16 @@ const projects = () => {
                             link="https://colab.research.google.com/drive/1n5ggefdNOoGIZdwljaZxcbkiHKrgamr3?usp=sharing#scrollTo=Iw8z6w60Djd2"
                             type="Data Science"
                             img={project2}
-                            github="/"
+                            github="https://github.com/chandanneralgi/Parkinson-Disease-Detection.git"
                         />
                     </div>
                     <div className='col-span-6 sm:col-span-12'>
                         <Project 
                             title="Encryption and Decryption"
-                            link="/"
+                            link="https://chandanneralgi.github.io/Text_to_Emoji/"
                             type="Text to Emoji"
                             img={project3}
-                            github="/"
+                            github="https://github.com/chandanneralgi/Text_to_Emoji"
                         />
                     </div>
                     <div className='col-span-12'>
@@ -132,10 +132,10 @@ const projects = () => {
                             title="Decentralized File Sharing System"
                             summary="Decentralized file sharing systems employ blockchain and peer-to-peer networks to enable secure, censorship-resistant file
                             exchange, fostering greater privacy and autonomy for users."
-                            link="/"
+                            link="https://github.com/chandanneralgi/Decentralized-File-Sharing-System.git"
                             type="Featured Project"
                             img={project4}
-                            github="/"
+                            github="https://github.com/chandanneralgi/Decentralized-File-Sharing-System.git"
                         />
                     </div>
                     {/* <div className='col-span-6 sm:col-span-12'>
