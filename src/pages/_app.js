@@ -5,6 +5,7 @@ import Head from "next/head";
 import Footer from "@/components/Footer";
 import { AnimatePresence } from "framer-motion";
 import { useRouter } from "next/router";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const montserrat = Montserrat({
   subsets: ["latin"],
